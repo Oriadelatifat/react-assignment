@@ -1,0 +1,15 @@
+
+:root{
+  background-color: orange;
+ 
+}
+body{
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  background-color:white;
+  width: 500px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+}
